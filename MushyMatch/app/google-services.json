@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456510806884",
+    "project_id": "mushy-match",
+    "storage_bucket": "mushy-match.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456510806884:android:ecbcac661b9374c7e27871",
+        "android_client_info": {
+          "package_name": "capstone.project.mushymatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456510806884-nrnkb7i2ok49rqrue66aa3jj7j07pl0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "capstone.project.mushymatch",
+            "certificate_hash": "d603295fcfb3bad04c6f8a92ba11f7e6b1b44d66"
+          }
+        },
+        {
+          "client_id": "456510806884-j0edc81qvunr040a0bj44e7ppcrsuflk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-tuvuILK--iEiNfEI5NrPcyMgXfnk7CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456510806884-j0edc81qvunr040a0bj44e7ppcrsuflk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MushyMatch</string>
+    <string name="description">Jamur enoki (Flammulina velutipes) adalah sejenis jamur yang memiliki batang panjang dan tipis dengan tudung kecil berwarna putih. Jamur enoki memiliki tekstur renyah dan rasa manis. Biasanya, mereka tumbuh dalam kelompok rapat dan memiliki akar berwarna putih yang dapat dimakan. Jamur enoki sering digunakan dalam masakan Asia, seperti sup dan tumisan, dan mereka juga dapat dijadikan bahan dalam salad atau campuran mie. Selain itu, jamur enoki diketahui memiliki beberapa manfaat kesehatan, seperti mengandung serat, vitamin B, dan mineral.</string>
+    <string name="mushroom_name">Mushroom Name</string>
+    <string name="scientific_name">Scientific Name</string>
+    <string name="desc">Description</string>
+    <string name="habitat">Habitat</string>
+    <string name="cooking_recipes">Cooking recipes</string>
+    <string name="next_page">Next page</string>
+    <string name="mushroom_image">mushroom_image</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="more_information">More Information</string>
+    <string name="attention">Attention!</string>
+    <string name="warning_msg">It can happen that the app confuses edible and poisonous mushrooms. For this reason, make sure you do not touch or eat any mushrooms you don\'t know.</string>
+    <string name="nama_bahan">Nama Bahan</string>
+    <string name="steps">Steps</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="step">Potong bagian akar jamur, cuci bersih jamur. Lalu rebus jamur dalam air mendidih hingga layu. Angkat, tiriskan.</string>
+    <string name="nama_masakan">Nama Masakan</string>
+    <string name="search">Search</string>
+    <string name="nama_jamur">Nama Jamur</string>
+    <string name="nama_ilmiah">Nama ilmiah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="mulai_deteksi_jamur">Mulai Deteksi Jamur</string>
+    <string name="import_image">import image</string>
+    <string name="ambil_gambar">ambil gambar</string>
+    <string name="kembali">kembali</string>
+    <string name="video_tutorial">Video Tutorial</string>
+    <string name="email">Email</string>
+    <string name="status">status</string>
+    <string name="are_you_sure_you_want_to_log_out">Are you sure you want to log out?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="register">Register</string>
+</resources>
